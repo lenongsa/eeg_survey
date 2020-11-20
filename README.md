@@ -1,2 +1,2 @@
 # eeg_survey
-Master Thesis
+Master Dissertation
