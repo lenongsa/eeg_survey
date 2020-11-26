@@ -1,4 +1,6 @@
 cookies.txt
 kaggle.json
 .ipynb_checkpoints
+.idea
 Datasets_raw
+Datasets_clean
