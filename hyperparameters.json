@@ -1,0 +1,57 @@
+{
+    "SelfRegulationSCP1": {
+        "wm_lr": {
+            "word_size": 2,
+            "n_bins": 3,
+            "C": 0.5
+        },
+        "wm_svc": {
+            "word_size": 2,
+            "n_bins": 3,
+            "C": 1,
+            "kernel": "rbf",
+            "degree": 3,
+            "gamma": "scale"
+        },
+        "wm_lgbm": {
+            "word_size": 2,
+            "n_bins": 3,
+            "num_leaves": 254,
+            "max_depth": 2,
+            "learning_rate": 0.1,
+            "n_estimators": 500,
+            "min_split_gain": 0.2,
+            "min_child_samples": 20,
+            "colsample_bytree": 1,
+            "reg_alpha": 0.1,
+            "reg_lambda": 0
+        },
+        "pyeeg_lr": {
+            "C": 1
+        },
+        "pyeeg_rf": {
+            "n_estimators": 500,
+            "max_depth": 3
+        },
+        "pyeeg_svc": {
+            "C": 1,
+            "kernel": "rbf",
+            "degree": 3,
+            "gamma": "scale"
+        },
+        "pyeeg_lgbm": {
+            "num_leaves": 254,
+            "max_depth": 2,
+            "learning_rate": 0.1,
+            "n_estimators": 500,
+            "min_split_gain": 0.2,
+            "min_child_samples": 20,
+            "colsample_bytree": 1,
+            "reg_alpha": 0.1,
+            "reg_lambda": 0
+        }
+    },
+    "Alcoholism_S1": {},
+    "FingerMovements": {},
+    "DEAP_Valence": {}
+}
