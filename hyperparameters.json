@@ -5,6 +5,12 @@
             "n_bins": 3,
             "C": 0.5
         },
+        "wm_rf": {
+            "word_size": 2,
+            "n_bins": 3,
+            "n_estimators": 400,
+            "max_depth": 8
+        },
         "wm_svc": {
             "word_size": 2,
             "n_bins": 3,
