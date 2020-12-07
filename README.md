@@ -12,13 +12,13 @@ Techniques</b>, and performs analysis of 11 classification methods over 4 differ
 
 > `Data_cleaning.ipynb` Cleans the Raw EEG data and save it into formats fit for the classifier models.
 
-> `Alcoholism_S1.ipynb` Performs analysis of the 11 classification methods over the <i>Alcoholism_S1<\i> dataset.
+> `Alcoholism_S1.ipynb` Performs analysis of the 11 classification methods over the <i>Alcoholism_S1</i> dataset.
 
-> `DEAP.ipynb` Performs analysis of the 11 classification methods over the <i>DEAP<\i> dataset.
+> `DEAP.ipynb` Performs analysis of the 11 classification methods over the <i>DEAP</i> dataset.
 
-> `SelfRegulationSCP1.ipynb` Performs analysis of the 11 classification methods over the <i>SelfRegulationSCP1<\i> dataset.
+> `SelfRegulationSCP1.ipynb` Performs analysis of the 11 classification methods over the <i>SelfRegulationSCP1</i> dataset.
 
-> `FingerMovements.ipynb` Performs analysis of the 11 classification methods over the <i>FingerMovements<\i> dataset.
+> `FingerMovements.ipynb` Performs analysis of the 11 classification methods over the <i>FingerMovements</i> dataset.
 
 ### Reference:
 
