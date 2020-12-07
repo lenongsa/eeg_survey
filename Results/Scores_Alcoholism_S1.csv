@@ -1,0 +1,12 @@
+,0
+DTW + 1NN,0.68
+WM + LR,0.73
+WM + RF,0.7
+WM + SVM,0.7
+WM + GBT,0.68
+FS + LR,0.9
+FS + RF,0.91
+FS + SVM,0.87
+FS + GBT,0.89
+InceptionTime,0.84
+CNN,0.73
