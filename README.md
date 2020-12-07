@@ -4,7 +4,7 @@
 ### Summary
 
 This repository contains accompanying code for the dissertation <b>Unraveling the Brain: a Quantitative Study of EEG Classification
-Techniques<\b>, and performs analysis of 11 classification methods over 4 different EEG datasets
+Techniques</b>, and performs analysis of 11 classification methods over 4 different EEG datasets
 
 ### Guide to files
 
