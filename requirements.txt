@@ -85,7 +85,7 @@ ptyprocess==0.6.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.7
 pycparser==2.20
-pyeeg @ git+git://github.com/forrestbao/pyeeg@e5d34f8e8dfd976b3c52e6c58f80306028275798
+pyeeg @ git+https://github.com/forrestbao/pyeeg.git
 Pygments==2.6.1
 PyJWT==1.7.1
 pyOpenSSL==19.1.0
